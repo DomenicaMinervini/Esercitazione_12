@@ -1,4 +1,4 @@
-ESERCITAZIONE 12: PROBLEMA DI CLASSIFICAZIONE.
+ESERCITAZIONE 12: PROBLEMA DI CLASSIFICAZIONE
 
 Per svolgere questa Esercitazione bisogna usare le librerie Tensor Flow e Keras. 
 Le librerie vanno caricate prima di aprire il Jupyter Notebook digitando sul terminale: 
